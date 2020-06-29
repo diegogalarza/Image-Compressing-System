@@ -5,7 +5,6 @@ _This is a program developed to compress PGM-format images using the DCT (Discre
 To excecute the program it's only needed to run the "finalDEM.C" file.
 
 ## Built with
-* C++
 * C
 ## Running restrictions
 * Linux: Works perfectly and all the processes of the image compression are executed as expected.
