@@ -2,6 +2,8 @@
 
 _This is a program developed to compress PGM-format images using the DCT (Discrete Cosine Transform) and the Huffman algorithm, in which the user can select the rate of compression of a given PGM image resulting in another PGM image after the DCT and Huffman process, having a 15% loss on the image weight at **maximal compresison**, a 12% loss at **normal compression** and finally a 10% loss at **minimun compression**_
 
+To excecute the program it's only needed to run the "finalDEM.C" file.
+
 ## Built with
 * C++
 * C
